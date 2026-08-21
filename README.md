@@ -27,3 +27,11 @@ A beginner-friendly calculator project built while learning Git and GitHub.
 - JavaScript
 - Git
 - GitHub
+
+## How to Run
+
+For the Python calculator:
+python calculator.py
+
+For the web calculator:
+Open index.html in your browser
